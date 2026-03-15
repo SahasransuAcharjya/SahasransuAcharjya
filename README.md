@@ -64,9 +64,9 @@
 
 ### 🏆 Featured Innovation
 
-| 🌊 BAUV | 📄 AI Resume Parser |
+| 🩸 JeevanDhara | 🧠 Brain Tumor Detection |
 | :--- | :--- |
-| **Bio-Mimetic Autonomous Underwater Vehicle.** A cutting-edge fusion of IoT and AI, engineered for advanced, autonomous underwater navigation and exploration. | **Intelligent Data Extraction.** An NLP-powered tool designed to automatically read, extract, and cleanly categorize critical data points from complex resumes. |
+| **Full-Stack Blood Bank Network.** A comprehensive web platform connecting donors with recipients seamlessly. Built to save lives through efficient data management and an intuitive UI. | **ResNet50 & Grad-CAM Explainability.** An advanced deep learning model for medical image analysis, providing high-accuracy tumor detection with visual interpretability for clinical insight. |
 
 ---
 
