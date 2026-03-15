@@ -6,6 +6,7 @@
   <a href="https://x.com/KSAcharjya" target="_blank"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="https://discordapp.com/users/1397093686872899684" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://www.instagram.com/its_ks047utm_source=qr&igsh=MXJobGNmM2M4NDd6Mg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://sahasransuacharjya.github.io/personal-portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-0556F3?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
