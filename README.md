@@ -1,61 +1,78 @@
-<div align="center">
-  <h1><code>&gt;_ Hello, World! I'm Sahasransu Acharjya</code></h1>
-  <h3><code>System.out.println("Final Year CSE | AI & Full-Stack Developer | Innovator");</code></h3>
-</div>
+<h1 align="center">Sahasransu Acharjya</h1>
+<h4 align="center">Architecting Intelligence | Bridging Software & Hardware | Creator</h4>
 
 <p align="center">
-  Building intelligent systems, seamless web experiences, and bridging software with hardware. Currently diving deep into AI, ML, and embedded systems to solve real-world problems.
+  <a href="https://www.linkedin.com/in/sahasransuacharjya" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/KSAcharjya" target="_blank"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://discordapp.com/users/1397093686872899684" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://www.instagram.com/its_ks047utm_source=qr&igsh=MXJobGNmM2M4NDd6Mg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sahasransuacharjya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/KSAcharjya" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF00" alt="X" />
-  </a>
-  <a href="https://discordapp.com/users/1397093686872899684" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF00" alt="Discord" />
-  </a>
-  <a href="https://www.instagram.com/its_ks047utm_source=qr&igsh=MXJobGNmM2M4NDd6Mg==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF00" alt="Instagram" />
-  </a>
-</div>
 
 ---
 
-### 💻 `whoami`
+### 🗂️ Explore My Work (Click to Expand)
 
-```bash
-#!/bin/bash
-name="Sahasransu Acharjya"
-education="Final Year CSE Student at BPUT"
-current_mission="Engineering a Bio-Mimetic Autonomous Underwater Vehicle (BAUV)"
-interests=("Computer Vision" "Deep Learning" "NLP" "Full-Stack Web Dev" "IoT")
-roles=("BPUT's 1st Cultural Secretary" "Open Source Contributor")
-internships=("IIT Kharagpur" "IBM" "MindBrain" "ZeroCode")
+<details>
+  <summary><b>🤖 AI, Deep Learning & Hardware Engineering</b></summary>
+  <br/>
+  I build systems that bridge the gap between digital intelligence and physical execution. 
+  <ul>
+    <li><b>Current Focus:</b> Architecting a Bio-Mimetic Autonomous Underwater Vehicle (BAUV) using advanced IoT and deep learning for underwater navigation.</li>
+    <li><b>Hardware Stack:</b> Raspberry Pi, Arduino.</li>
+    <li><b>AI Domains:</b> Computer Vision, Natural Language Processing, Machine Learning.</li>
+  </ul>
+</details>
 
-echo "Always learning, always building."
+<details>
+  <summary><b>🌐 Full-Stack Web Architecture</b></summary>
+  <br/>
+  Creating seamless, scalable, and impactful user experiences from the database to the DOM.
+  <ul>
+    <li><b>Tech Arsenal:</b> Python, Next.js, Node.js.</li>
+    <li><b>Key Projects:</b> 
+      <ul>
+        <li><b>JeevanDhara:</b> A life-saving full-stack blood bank platform connecting donors with recipients.</li>
+        <li><b>UtSav:</b> An intuitive, end-to-end event management platform.</li>
+      </ul>
+    </li>
+  </ul>
+</details>
 
-⚙️ tech_stack.json
-Languages & Web:
+<details>
+  <summary><b>💼 Professional Footprint & Internships</b></summary>
+  <br/>
+  I've taken my academic foundation and applied it to real-world challenges alongside industry leaders.
+  <ul>
+    <li><b>IIT Kharagpur</b></li>
+    <li><b>IBM</b></li>
+    <li><b>MindBrain</b></li>
+    <li><b>ZeroCode</b></li>
+  </ul>
+</details>
 
-Domains & Hardware:
+<details>
+  <summary><b>🎭 Beyond the Code</b></summary>
+  <br/>
+  Technology is just one medium. I believe in blending engineering with creativity and community.
+  <ul>
+    <li>Proud to serve as BPUT's 1st Cultural Secretary.</li>
+    <li>When I'm not coding, I'm likely writing songs, exploring Urdu and Hindi lyricism, or taking a tactical break with <i>Ready or Not</i>.</li>
+  </ul>
+</details>
 
-🚀 ls -la ./featured_projects
-🟢 BAUV -> A cutting-edge Bio-Mimetic Autonomous Underwater Vehicle leveraging IoT and deep learning for advanced underwater navigation.
+---
 
-🟢 JeevanDhara -> A comprehensive, full-stack blood bank web application designed to seamlessly connect donors with those in need.
+### 🏆 Featured Innovation
 
-🟢 UtSav -> An intuitive event management platform built to streamline the planning and execution of events.
+| 🌊 BAUV | 📄 AI Resume Parser |
+| :--- | :--- |
+| **Bio-Mimetic Autonomous Underwater Vehicle.** A cutting-edge fusion of IoT and AI, engineered for advanced, autonomous underwater navigation and exploration. | **Intelligent Data Extraction.** An NLP-powered tool designed to automatically read, extract, and cleanly categorize critical data points from complex resumes. |
 
-🟢 AI_Resume_Parser -> A tool leveraging NLP to automatically extract, organize, and categorize key information from resumes.
+---
 
-📈 system_metrics
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSahasransuAcharjya%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Stats" />
-</div>
+### 📊 Live GitHub Activity
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DSahasransuAcharjya%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SahasransuAcharjya&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahasransuAcharjya&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333" width="48%" />
+</p>
