@@ -36,3 +36,26 @@ roles=("BPUT's 1st Cultural Secretary" "Open Source Contributor")
 internships=("IIT Kharagpur" "IBM" "MindBrain" "ZeroCode")
 
 echo "Always learning, always building."
+
+⚙️ tech_stack.json
+Languages & Web:
+
+Domains & Hardware:
+
+🚀 ls -la ./featured_projects
+🟢 BAUV -> A cutting-edge Bio-Mimetic Autonomous Underwater Vehicle leveraging IoT and deep learning for advanced underwater navigation.
+
+🟢 JeevanDhara -> A comprehensive, full-stack blood bank web application designed to seamlessly connect donors with those in need.
+
+🟢 UtSav -> An intuitive event management platform built to streamline the planning and execution of events.
+
+🟢 AI_Resume_Parser -> A tool leveraging NLP to automatically extract, organize, and categorize key information from resumes.
+
+📈 system_metrics
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSahasransuAcharjya%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DSahasransuAcharjya%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" />
+</div>
