@@ -57,7 +57,7 @@
   Technology is just one medium. I believe in blending engineering with creativity and community.
   <ul>
     <li>Proud to serve as BPUT's 1st Cultural Secretary.</li>
-    <li>When I'm not coding, I'm likely writing songs, exploring English, Hindi and Odia lyricism, or taking a tactical break with <i>FPS Shooters</i>.</li>
+    <li>When I'm not coding, I'm likely writing songs, exploring Urdu and Hindi lyricism, or taking a tactical break with <i>Ready or Not</i>.</li>
   </ul>
 </details>
 
@@ -71,9 +71,4 @@
 
 ---
 
-### 📊 Live GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahasransuAcharjya&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahasransuAcharjya&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=333333" width="48%" />
-</p>
+### 📡 Live Transmission Feed
