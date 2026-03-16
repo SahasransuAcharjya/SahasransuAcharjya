@@ -57,7 +57,7 @@
   Technology is just one medium. I believe in blending engineering with creativity and community.
   <ul>
     <li>Proud to serve as BPUT's 1st Cultural Secretary.</li>
-    <li>When I'm not coding, I'm likely writing songs, exploring Urdu and Hindi lyricism, or taking a tactical break with <i>Ready or Not</i>.</li>
+    <li>When I'm not coding, I'm likely writing songs, exploring English, Hindi and Odia lyricism, or taking a tactical break with <i>FPS Shooters</i>.</li>
   </ul>
 </details>
 
